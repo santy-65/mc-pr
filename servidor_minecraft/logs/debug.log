@@ -2818,3 +2818,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [01Feb2025 06:58:14.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexboyx5551 was killed
 [01Feb2025 06:58:14.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Alexboyx5551
 [01Feb2025 06:58:14.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexboyx5551> -
+[01Feb2025 07:00:29.866] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alexboyx5551: {disabled=true, disconnected=true, uuid=f3d42d48-fcb3-3478-9f79-71ef57f1a67d, name=Alexboyx5551, group=null}
+[01Feb2025 07:00:30.372] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alexboyx5551: {disabled=false, disconnected=true, uuid=f3d42d48-fcb3-3478-9f79-71ef57f1a67d, name=Alexboyx5551, group=null}
+[01Feb2025 07:00:57.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 07:00:57.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 07:02:28.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alexboyx5551: {disabled=true, disconnected=true, uuid=f3d42d48-fcb3-3478-9f79-71ef57f1a67d, name=Alexboyx5551, group=null}
+[01Feb2025 07:02:29.302] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alexboyx5551: {disabled=false, disconnected=true, uuid=f3d42d48-fcb3-3478-9f79-71ef57f1a67d, name=Alexboyx5551, group=null}
+[01Feb2025 07:02:29.789] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alexboyx5551: {disabled=true, disconnected=true, uuid=f3d42d48-fcb3-3478-9f79-71ef57f1a67d, name=Alexboyx5551, group=null}
+[01Feb2025 07:02:30.213] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alexboyx5551: {disabled=false, disconnected=true, uuid=f3d42d48-fcb3-3478-9f79-71ef57f1a67d, name=Alexboyx5551, group=null}
+[01Feb2025 07:03:20.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Feb2025 07:03:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Feb2025 07:03:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Feb2025 07:03:20.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexboyx5551 lost connection: Server closed
+[01Feb2025 07:03:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexboyx5551 left the game
+[01Feb2025 07:03:20.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f3d42d48-fcb3-3478-9f79-71ef57f1a67d was unloaded
+[01Feb2025 07:03:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Feb2025 07:03:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Feb2025 07:03:22.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Feb2025 07:03:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Feb2025 07:03:22.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Feb2025 07:03:22.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 07:03:22.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 07:03:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Feb2025 07:03:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Feb2025 07:03:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Feb2025 07:03:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Feb2025 07:03:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Feb2025 07:03:22.500] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Feb2025 07:03:22.501] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[01Feb2025 07:03:22.501] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[01Feb2025 07:03:22.502] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
